@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<bom xmlns="http://cyclonedx.org/schema/bom/1.1" serialNumber="urn:uuid:3e671687-395b-41f5-a30f-a58921a69b79" version="1">
+<?xml version="1.0" encoding="utf-8"?>
+<bom xmlns="http://cyclonedx.org/schema/bom/1.1" serialNumber="urn:uuid:179ada86-dbf5-4ee4-8962-dbf283e7c956" version="1">
+    <components/>
+</bom>
   <components>
     <component type="library">
       <publisher>Apache</publisher>

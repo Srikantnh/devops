@@ -25,7 +25,7 @@ pipeline {
        stage('Test') {
            agent {
                docker {
-                   image 'golang'
+                   image 'csr:2.5'
                }
            }
            steps {

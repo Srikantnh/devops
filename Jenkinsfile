@@ -1,7 +1,7 @@
 pipeline {
    agent any
    environment {
-       registry = "global.samsung.repo/csr-portal"        
+       registry = "global.samsung.repo/csr-porta"        
        CSR-APP = "/opt/CSR-Pro" 
    }
    stages {
